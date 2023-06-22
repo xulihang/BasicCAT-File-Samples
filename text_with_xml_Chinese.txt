@@ -1,0 +1,12 @@
+﻿包含XML的文档。XML内容如下。
+
+<tu>
+    <note>Friends.S01E01.chs&amp;eng.sohu.ass
+0:00:51.17,0:00:53.04</note>
+    <tuv xml:lang="en">
+        <seg>He&apos;s just some guy I work with!</seg>
+    </tuv>
+    <tuv xml:lang="zh">
+        <seg>He's just my collegue.</seg>
+    </tuv>
+</tu>
